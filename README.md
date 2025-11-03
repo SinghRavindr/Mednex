@@ -37,7 +37,7 @@ Built using React + TypeScript + Tailwind CSS + Vite, Mednex delivers exceptiona
 
 
 🧑‍💻 Author
-Varun Singhal
-Ravindra Singh
-Ozair Ali
-Amaan Saifi
+-> Varun Singhal
+-> Ravindra Singh
+-> Amaan Saifi
+-> Ozair Ali
