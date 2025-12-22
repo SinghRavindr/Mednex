@@ -102,3 +102,19 @@ The platform is optimized for responsiveness, usability, and scalability.
   <li>Amaan Saifi</li>
   <li>Ozair Ali</li>
 </ul>
+
+
+
+<hr />
+
+<h2>🚀 Future Enhancements</h2>
+<ul>
+  <li><strong>Advanced Genetic Models</strong> — Integrate more specialized AI models for deeper and more accurate genetic risk analysis.</li>
+  <li><strong>Wearable Device Integration</strong> — Sync data from smartwatches and fitness bands for real-time health monitoring.</li>
+  <li><strong>Personalized Health Recommendations</strong> — Generate AI-driven lifestyle, diet, and activity suggestions based on user data.</li>
+  <li><strong>Doctor / Expert Portal</strong> — Allow verified medical professionals to review anonymized data and provide insights.</li>
+  <li><strong>Data Privacy Enhancements</strong> — Implement stronger encryption, consent-based data sharing, and audit logs.</li>
+  <li><strong>Multi-language Support</strong> — Improve accessibility by supporting multiple regional and global languages.</li>
+</ul>
+
+<hr />
