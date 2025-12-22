@@ -50,3 +50,55 @@ The platform is optimized for responsiveness, usability, and scalability.
   <li><strong>Modern UI/UX</strong> — Responsive design with smooth animations</li>
 </ul>
 
+<hr />
+
+<h2>🛠️ Tech Stack</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th align="left">Layer</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, TypeScript, Vite</td>
+  </tr>
+  <tr>
+    <td>Styling</td>
+    <td>Tailwind CSS, ShadCN UI, Framer Motion</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express.js</td>
+  </tr>
+  <tr>
+    <td>AI / APIs</td>
+    <td>External AI APIs</td>
+  </tr>
+  <tr>
+    <td>Deployment</td>
+    <td>Netlify, Vercel</td>
+  </tr>
+  <tr>
+    <td>Package Manager</td>
+    <td>pnpm</td>
+  </tr>
+</table>
+
+<hr />
+
+<h2>📈 Impact</h2>
+<ul>
+  <li>Reduced manual health data interpretation time using AI-assisted analysis</li>
+  <li>Improved user input efficiency through voice-based interaction</li>
+  <li>Delivered a scalable and modular full-stack architecture</li>
+</ul>
+
+<hr />
+
+<h2>👥 Team</h2>
+<ul>
+  <li>Varun Singhal</li>
+  <li>Ravindra Singh</li>
+  <li>Amaan Saifi</li>
+  <li>Ozair Ali</li>
+</ul>
